@@ -1,0 +1,14 @@
+Gear diameter: 116mm (measured with a tape measure, so close-ish)
+Tooth count: 46
+Distance between a pair of gears (from the bolt center): 121,5mm
+Distance between the closest teeth of a gear pair: 6.7~6.9mm (This was hard to measure since engine is in the engine bay and lots of components still in the way)
+
+Belt specs. These are measured from the old belt for now, so they may be slightly inaccurate. New belt will be arriving soon.
+HTD8?
+pb: 8
+hs: 5
+ht: 3.05
+
+Belt measurements and tooth type were compared to the info on these pages:
+https://www.puteken.com/how-to-identify-and-measure-timing-belt/
+https://www.puteken.com/timing-belt-tooth-profile-and-pitch/
