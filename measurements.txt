@@ -1,13 +1,26 @@
 Gear diameter: 116mm (measured with a tape measure, so close-ish)
 Tooth count: 46
 Distance between a pair of gears (from the bolt center): 121,5mm
-Distance between the closest teeth of a gear pair: 6.7~6.9mm (This was hard to measure since engine is in the engine bay and lots of components still in the way)
+Distance between the closest teeth of a gear pair: 6.7~6.9mm (This is likely not correct, as the final tools smallest width ended up being only 5mm.)
 
-Belt specs. These are measured from the old belt for now, so they may be slightly inaccurate. New belt will be arriving soon.
-HTD8?
+Belt specs. These are measured from the old belt and cam gears for now, so they may be slightly inaccurate. New belt will be arriving soon.
+YU8, but next best option seems to be GT8 (Gates 8).
 pb: 8
 hs: 5
 ht: 3.05
+
+Note: It seems GT8 (Gates 8) tooth profile fits best of the options FreeCAD has to offer.
+According to search results the *actual* tooth profile is YU8, but I am not able to find any easy tools to make gears using it, 
+instead all sources point to ranges of values, radials that need to be calculated based on the existing gears etc..
+
+And my math skills ain't that good :D
+
+So GT8 tooth profile will have to do now.
+
+Tool is currently printed with 5mm width at middle teeth.
+This fits, but extremely tighly. Might also cause slight plastic shavings when put in place between gears.
+It might be worth testing to print the tool with the width being somewhere between 4.95~4.98mm.
+
 
 Belt measurements and tooth type were compared to the info on these pages:
 https://www.puteken.com/how-to-identify-and-measure-timing-belt/
